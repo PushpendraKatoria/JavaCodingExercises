@@ -15,10 +15,6 @@ public class TestTest {
 
     public static void main(String ar[]) {
         int arr[] = {1, 34, 3, 98, 9, 76, 45, 4, 42, 48};
-
-        [1,........45........98]
-
-        {........., 34,45,48,76,98}
         System.out.println(max5(arr));
     }
 
